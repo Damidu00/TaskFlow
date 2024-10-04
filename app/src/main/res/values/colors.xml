@@ -2,4 +2,7 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="barColor">#1E83DA</color>
+    <color name="ActivationBarColor">#2652AA</color>
+    <color name="cell_bg">#E1E1E1</color>
 </resources>
