@@ -5,4 +5,5 @@
     <color name="barColor">#1E83DA</color>
     <color name="ActivationBarColor">#2652AA</color>
     <color name="cell_bg">#E1E1E1</color>
+    <color name="colorBlueMidnight">#003366</color>
 </resources>

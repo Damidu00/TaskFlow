@@ -2,7 +2,6 @@
     <!-- Base application theme. -->
     <style name="Base.Theme.TodoApp" parent="Theme.Material3.DayNight.NoActionBar">
         <item name="colorPrimary">@color/ActivationBarColor</item>
-
     </style>
 
     <style name="Theme.TodoApp" parent="Base.Theme.TodoApp" />

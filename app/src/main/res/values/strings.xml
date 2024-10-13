@@ -4,4 +4,7 @@
     <string name="description">Description</string>
     <string name="priority">Priority</string>
     <string name="todo">TODO</string>
+
+    <string name="onboarding_slide1_subtitle">Connect with people around the world</string>
+
 </resources>
